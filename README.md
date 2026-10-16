@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm passionate about programming, problem-solving,
 
 ## 🛠️ Technical Skills
 
-* **Programming Language:** Python
+* **Programming Languages:**C, Python
 * **Core Python:** Functions, Loops, Conditional Statements, Exception Handling, File Handling, OOP
 * **Tools:** Git, GitHub, VS Code
 * **Currently Learning:** Backend Development and Database Integration
